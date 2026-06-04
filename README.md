@@ -1,2 +1,2 @@
-# Musicplayer-andr
+# Android exam
 Musicplayer for android
